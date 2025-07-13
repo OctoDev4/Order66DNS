@@ -34,12 +34,12 @@ cd Order66DNS
 ```
 (Optional) Make the script executable:
 ```bash
-chmod +x order66dns.py
+chmod +x main.py
 ```
 🚀 Usage
 Run the script with:
 ```bash
-sudo python3 order66dns.py -t example.com -i 1.1.1.1
+sudo python3 main.py -t example.com -i 1.1.1.1
 ```
 -t: The target domain to spoof (e.g., stackoverflow.com)
 
