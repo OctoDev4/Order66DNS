@@ -29,7 +29,7 @@ sudo apt install libnetfilter-queue-dev
 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/youruser/Order66DNS.git
+git clone https://github.com/OctoDev4/Order66DNS.git
 cd Order66DNS
 ```
 (Optional) Make the script executable:
